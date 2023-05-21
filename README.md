@@ -38,6 +38,6 @@
 
 ### 📑 End note 
 
-Oh dude, this project gave me a lot of headaches rendering dynamic components but I feel SO GOOD after I finished it, I really enjoy doing this and I will keep moving forward. Also learning little by little on how to use TypeScript, I'm lving it, it's really helping me to debug my code ad I go and I appreciate that
+Oh dude, this project gave me a lot of headaches rendering dynamic components but I feel SO GOOD after I finished it, I really enjoy doing this and I will keep moving forward. Also learning little by little on how to use TypeScript, I'm loving it, it's really helping me to debug my code as I go and I appreciate that
 
 <sub>**Additional**: I will start using more git and not only deploying when the project is ready</sub>
